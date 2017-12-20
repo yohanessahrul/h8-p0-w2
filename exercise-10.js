@@ -30,4 +30,5 @@ for(index1=1; index1 < 10; index1++){
   }
   console.log(bintang);
   var bintang = '';
+  
 }
