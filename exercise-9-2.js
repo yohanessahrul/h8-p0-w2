@@ -1,4 +1,4 @@
-//Exercise 9 - Part 2
+//Exercise 9 - Part 2 
 
 var alas = 3;
 var tinggi = 5;

@@ -1,4 +1,4 @@
-//Exercise 9 - Part 1
+//Exercise 9 - Part 1 
 var nama = "Yosa";
 var pembilang = 100;
 var penyebut = 20;
