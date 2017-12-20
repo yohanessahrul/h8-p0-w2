@@ -9,6 +9,7 @@ for(var index=1; index <= 100; index++){
   }
 }
 
+
 console.log("Total " + total);
 
 //Exercise 10 - Part 2
