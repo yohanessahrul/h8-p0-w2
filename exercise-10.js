@@ -9,9 +9,6 @@ for(var index=1; index <= 100; index++){
   }
 }
 
-
-
-
 console.log("Total " + total);
 
 //Exercise 10 - Part 2
@@ -24,7 +21,6 @@ for(index1=1; index1 < 10; index1++){
   var pagar = '';
 }
 
-
 //Exercise 10 - Part 3
 bintang = '';
 for(index1=1; index1 < 10; index1++){
@@ -33,5 +29,4 @@ for(index1=1; index1 < 10; index1++){
   }
   console.log(bintang);
   var bintang = '';
-
 }
