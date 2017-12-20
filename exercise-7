@@ -1,0 +1,25 @@
+Tugas 1
+
+TULISKAN dan SIMPAN "angka pertama"
+TULISKAN dan SIMPAN "angka kedua"
+HITUNG "angka pertama" dikalikan "angka kedua"
+TAMPILKAN hasil hitungan
+
+
+======================================================================
+
+Tugas 2
+
+TULISKAN dan SIMPAN "sebuah kata"
+IF kata tersebut berisikan "Saya Belajar Javascript"
+TAMPILKAN "Pasti Bisa"
+
+
+=======================================================================
+
+Tugas 3
+
+TULISKAN dan SIMPAN "angka batas"
+TULISKAN dan SIMPAN "angka 1"
+TAMPILKAN angka dari "angka 1" sampai dengan "angka batas" yang bisa dibagi 3
+ULANGI sampai dengan "angka batas"
