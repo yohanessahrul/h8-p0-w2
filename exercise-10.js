@@ -13,8 +13,8 @@ console.log("Total " + total);
 
 //Exercise 10 - Part 2
 var pagar = '';
-for(index1=1; index1 < 10; index1++){
-  for(index2=0; index2 < 10; index2++){
+for(index1=1; index1 <= 10; index1++){
+  for(index2=0; index2 <= 10; index2++){
     pagar += '#';
   }
   console.log(pagar);
@@ -23,8 +23,8 @@ for(index1=1; index1 < 10; index1++){
 
 //Exercise 10 - Part 3
 bintang = '';
-for(index1=1; index1 < 10; index1++){
-  for(index2=0; index2 < index1; index2++){
+for(index1=1; index1 <= 10; index1++){
+  for(index2=0; index2 <= index1; index2++){
     bintang += '*';
   }
   console.log(bintang);
