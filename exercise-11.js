@@ -18,10 +18,10 @@ if(peran === ''){
       
       for(i=0; i < tahunLahir; i++){
 
-        if(i % umur === 1){
+        if(i % umur === 0){
           console.log(peran + ' ' + nama + ' menyerang monster');
           monsterHealth -= umur;
-        } else if (i % kodeMonster === 1){
+        } else if (i % kodeMonster === 0){
           console.log('monster menyerang ' + peran + ' ' + nama + '!');
           playerHealth -= kodeMonster;
         } else if(i % umur === 0 && i % kodeMonster === 0){
